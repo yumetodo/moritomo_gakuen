@@ -33,7 +33,7 @@ ref: http://www.pref.kanagawa.jp/osirase/02/2315/hepburn.html
 11. 有益費支払いに関する三者合意書の締結について（平成28月3月29日）
 12. 国有財産の鑑定評価委託業務について（平成28年4月14日）
 13. 予定価格の決定（売払価格）及び相手方への価格通知について（平成28年5月31日）
-14. 特別会計所属普通財産の処理方針の決定について（平成28年6月14日）
+14. [特別会計所属普通財産の処理方針の決定について（平成28年6月14日）](./tokubetsukaikeishozokufutsuuzaisannoshorihoushinnnoketteinitsuite/README.md)
 
 ## ファイルの規約
 
