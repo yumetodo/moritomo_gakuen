@@ -1,0 +1,7 @@
+{
+    "stylelint.enable": false,
+    "markdownlint.config": {
+        "MD009": false,
+        "MD013": false
+    }
+}
