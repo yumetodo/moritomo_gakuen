@@ -10,6 +10,14 @@ http://www.asahicom.jp/news/esi/ichikijiatesi/moritomo-list/20180312/all.pdf
 
 をMarkdown書き起こしする。
 
+## お知らせ
+
+現在改竄前のみを書き起こしています。改竄後は別のbranchを切ってそっちに書き起こしたいのですが、いいbranch名が浮かばないというただそれだけの理由で作業していません。
+
+いい名前が浮かんだ人は  
+https://github.com/yumetodo/moritomo_gakuen/issues/5  
+まで。
+
 ## Directory構成
 
 Direcotry名を文章名とし、その下に`README.md`を置き書き起こす。`master`ブランチは書き換え前のものを置く。
@@ -40,6 +48,7 @@ ref: http://www.pref.kanagawa.jp/osirase/02/2315/hepburn.html
 - 紙の文章であることに起因する折返しは再現しない
 - 段落は再現する
 - トップレベルの順序付き箇条書きはh3タグ相当のMarkdown構文を利用する。
+- 経緯のようにタイムラインがあるものは表にする(Markdown構文利用) (ref: [#6](https://github.com/yumetodo/moritomo_gakuen/pull/6))
 
 ## LICENSE
 
@@ -88,3 +97,8 @@ git commit --allow-empty -m "書き起こし文章名"
 **とりあえずIssueを立てる**。誰かが治すと思う。
 
 もしくは私(@yumetodo)にTwitterでリプを投げる。多分代わりにIssueを立てるはず。
+
+## 参考
+
+テキスト起こしを完全手動でやるのは大変なのでOCRを使うとよいです。  
+例えば、Google DriveにPDFの一部を切り抜いた画像を上げてWriterで開くとOCRしてくれます。
