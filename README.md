@@ -32,7 +32,7 @@ ref: http://www.pref.kanagawa.jp/osirase/02/2315/hepburn.html
 2. 貸付決議書②「普通財産決議書（貸付）」（平成27年5月27日）
 3. 売払決議書「普通財産売払決議書」（平成28年6月14日）
 4. [特例承認の決裁文書①「普通財産の貸付けに係る承認申請について」（平成27年2月4日）](./tokureishouninnokessaibunsho1_futsuuzaisannokashitsukenikakawarushouninshinseinitsuite/README.md)
-5. 特例承認の決裁文書②「普通財産の貸付けに係る特例処理について」（平成27年4月30日）
+5. [特例承認の決裁文書②「普通財産の貸付けに係る特例処理について」（平成27年4月30日）](./tokureishouninnokessaibunsho2_futsuuzaisannokashitsukenikakawarushouninshinseinitsuite/README.md)
 6. 承諾書の提出について（平成26年6月30日）
 7. 未利用国有地等の処分等の相手方の決定通知について（平成27年2月20日）
 8. 予定価格の決定について（年額貸付料（定期借地））（平成27年4月27日）
